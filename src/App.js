@@ -1,11 +1,12 @@
-import './App.css';
+import React from 'react';
+import "bootstrap/dist/css/bootstrap.min.css";
+import Routes from './routes';
+import Header from './components/Header';
 
-function App() {
-  return (
-    <div className="">
-      <p>Pagina Routes</p>
-    </div>
-  );
+function App(){
+    return (
+      <Routes />
+    );
 }
 
 export default App;
