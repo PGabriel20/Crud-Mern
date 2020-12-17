@@ -1,0 +1,58 @@
+.wrapper h2{
+    margin: 1.5rem ;
+    text-align: center;
+}
+
+.edit-form{
+    display: none;
+}
+
+.editar2{
+    position: absolute;
+    right: 120px;
+}
+
+
+.painel-body{
+    height: 90px;
+}
+
+.painel-body h5{
+    display: inline-block;
+    position: relative;
+    margin-right: rem;
+    font-size: 1rem;
+}
+
+.codigo{
+    width: 60px;
+    margin-right: 30px;
+}
+
+.cliente{
+    width: 100px;
+}
+
+.desc{
+    width: 120px;
+}
+
+.mont{
+    width: 105px;
+}
+.num{
+    width: 75px;
+}
+.ordem{
+    width: 150px;
+}
+.date{
+    margin-right: 69px;
+}
+.val{
+    width: 90px;
+}
+.btn-add{
+    position: absolute;
+    right: 40px;
+}

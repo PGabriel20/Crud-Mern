@@ -1,0 +1,21 @@
+.main-jumbotron{
+    margin: 6rem;
+}
+
+.main-jumbotron a{
+    background-color: #3E6BB3;
+    color: #f5f5f5
+}
+
+.main-jumbotron a:hover{
+    color: #f5f5f5;
+    background-color: rgb(52, 89, 150);
+}
+
+.lead{
+    font-size: 1.7rem;
+}
+
+p{
+    font-size: 1.3rem;
+}
